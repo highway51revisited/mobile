@@ -1,0 +1,13 @@
+name: mobile
+title: mobile
+username:
+account: highway51revisited
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5041598
+bundleId: 5297356
+url: https://highway51revisited.shinyapps.io/mobile/
+when: 1637955041.51687
+lastSyncTime: 1637955041.51687
+asMultiple: FALSE
+asStatic: FALSE
